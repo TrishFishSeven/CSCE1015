@@ -4,4 +4,4 @@ Assignment repository for UNT CSCE1015
 tbb0116
 
 ## Favorite Professor
-$Professor Thompson
+Professor Thompson
